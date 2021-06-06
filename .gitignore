@@ -1,0 +1,9 @@
+# Python Caches
+__pycache__/
+Model/__pycache__/
+
+# Data Files
+Data/
+
+# Checkpoint Files
+Checkpoint/
